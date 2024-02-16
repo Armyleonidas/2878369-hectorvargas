@@ -1,1 +1,2 @@
-primer cambio, se agrega mas texto en el primer cambio 
+primer cambio, se agrega mas texto en el primer cambio ç
+se agrega segunda linea a primer texto 
